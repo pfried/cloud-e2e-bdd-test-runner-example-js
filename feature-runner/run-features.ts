@@ -3,8 +3,8 @@ import {
 	restStepRunners,
 	webhookStepRunners,
 	ConsoleReporter,
-} from '@bifravst/e2e-bdd-test-runner'
-import { stackOutput } from '@bifravst/cloudformation-helpers'
+} from '@nordicsemiconductor/e2e-bdd-test-runner'
+import { stackOutput } from '@nordicsemiconductor/cloudformation-helpers'
 import { stackBaseName } from '../aws/stackBaseName'
 import * as path from 'path'
 import { CloudFormationClient } from '@aws-sdk/client-cloudformation'
