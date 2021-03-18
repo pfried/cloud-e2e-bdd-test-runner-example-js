@@ -27,8 +27,6 @@ jobs:
           key: ${{ runner.OS }}-build-${{ hashFiles('**/package-lock.json') }}
       - name: Build
         run: npx tsc
-      - name: Lint
-        run: npm run lint
       - name: Set up test resources
         run: npx cdk deploy --require-approval never
       - name: Test

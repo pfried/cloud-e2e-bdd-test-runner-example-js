@@ -5,10 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "node dist/feature-runner/run-features.js",
-    "prettier": "prettier --write \"./**/*.{ts,js,json}\"",
-    "prettier:lint": "prettier --list-different \"./**/*.{ts,js,json}\"",
-    "lint": "npm run tslint && npm run prettier:lint",
-    "tslint": "eslint --ext .js,.ts \"./{feature-runner,aws}/*.ts\"",
     "postinstall": "husky install",
     "prepublishOnly": "pinst --disable",
     "postpublish": "pinst --enable"
