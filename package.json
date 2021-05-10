@@ -44,7 +44,7 @@
     "@nordicsemiconductor/asset-tracker-cloud-code-style": "9.0.2",
     "@nordicsemiconductor/cloudformation-helpers": "6.0.21",
     "@nordicsemiconductor/e2e-bdd-test-runner": "13.1.24",
-    "@nordicsemiconductor/eslint-config-asset-tracker-cloud-typescript": "7.0.19",
+    "@nordicsemiconductor/eslint-config-asset-tracker-cloud-typescript": "7.0.20",
     "@types/node": "15.0.2",
     "@typescript-eslint/eslint-plugin": "4.23.0",
     "aws-cdk": "1.102.0",
