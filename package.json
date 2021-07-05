@@ -46,7 +46,7 @@
     "@nordicsemiconductor/e2e-bdd-test-runner": "14.0.5",
     "@nordicsemiconductor/eslint-config-asset-tracker-cloud-typescript": "8.0.0",
     "@types/node": "16.0.0",
-    "@typescript-eslint/eslint-plugin": "4.28.1",
+    "@typescript-eslint/eslint-plugin": "4.28.2",
     "aws-cdk": "1.111.0",
     "eslint": "7.30.0",
     "husky": "7.0.0",
@@ -78,7 +78,7 @@
     "npm": ">=7.0.0"
   },
   "dependencies": {
-    "@typescript-eslint/parser": "4.28.1",
+    "@typescript-eslint/parser": "4.28.2",
     "aws-sdk": "2.939.0"
   }
 }
