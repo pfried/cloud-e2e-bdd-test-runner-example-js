@@ -42,7 +42,7 @@
     "@nordicsemiconductor/asset-tracker-cloud-code-style": "9.2.11",
     "@nordicsemiconductor/cloudformation-helpers": "6.1.17",
     "@nordicsemiconductor/e2e-bdd-test-runner": "14.4.75",
-    "@types/node": "16.11.6",
+    "@types/node": "16.11.7",
     "aws-cdk": "1.131.0"
   },
   "lint-staged": {
