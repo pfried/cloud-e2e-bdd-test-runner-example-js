@@ -64,8 +64,8 @@
     ]
   },
   "engines": {
-    "node": "16",
-    "npm": "8"
+    "node": ">=14",
+    "npm": ">=7"
   },
   "dependencies": {
     "aws-sdk": "2.1033.0"
